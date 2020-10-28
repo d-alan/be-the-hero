@@ -1,0 +1,13 @@
+Entidades da apliacação = tudo aquilo que representa o que será salvo no banco de dados
+1. ONG
+2. Casos
+
+Funcionalidades = o que cada entidade pode fazer no sitema
+1. Login de ONG
+2. Logout de ONG
+3. Cadastro de ONG
+4. Cadastrar novos casos
+5. Deletar casos
+6. Listar casos específicos da ONG
+7. Listar todos os casos
+8. Entrar em contato com a ONG
